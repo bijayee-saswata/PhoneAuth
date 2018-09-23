@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "888994699706",
+    "firebase_url": "https://phoneauth-6d386.firebaseio.com",
+    "project_id": "phoneauth-6d386",
+    "storage_bucket": "phoneauth-6d386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888994699706:android:c8a6368970d5486d",
+        "android_client_info": {
+          "package_name": "com.example.dell.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888994699706-8jiodikr3sfvepp0uid6tk4b1vohvbli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.phoneauth",
+            "certificate_hash": "decf054a7e844b675b5b4be514b55b33a6f787d7"
+          }
+        },
+        {
+          "client_id": "888994699706-j7rv7cqt5fgquuias67o3q7lumtagge3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJCsENWNLN9sVMINKNS1TwfgfkFrXzTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888994699706-j7rv7cqt5fgquuias67o3q7lumtagge3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
